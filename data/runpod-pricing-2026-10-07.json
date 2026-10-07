@@ -1,0 +1,16 @@
+{
+  "checked": "2026-10-07",
+  "source": "https://www.runpod.io/pricing",
+  "billing": "hourly display, per-second metering; storage and deployment choices are separate",
+  "secure_pod_usd_per_hour": {
+    "RTX A5000": 0.27,
+    "L4": 0.49,
+    "A100 PCIe": 1.59,
+    "H100 PCIe": 2.89
+  },
+  "serverless_usd_per_hour": {
+    "24GB class": 0.69,
+    "80GB A100": 2.72,
+    "80GB H100": 4.79
+  }
+}
